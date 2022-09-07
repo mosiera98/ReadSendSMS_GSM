@@ -1,0 +1,17 @@
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Rs232.frmModem.resources
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Rs232.Properties.Resources.resources
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Modem.csproj.GenerateResource.cache
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Modem.csproj.CoreCompileInputs.cache
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Modem.csprojAssemblyReference.cache
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\Modem.exe
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\Modem.pdb
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\SMSPDULib.dll
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Modem.csproj.CopyComplete
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Modem.exe
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\obj\Debug\Modem.pdb
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\EPPlus.dll
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\GSMCommServer.dll
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\GSMCommShared.dll
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\GSMCommunication.dll
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\OpenExcel.dll
+C:\Users\M.Asadi\Desktop\GE-600U\MODEM APP\modem_src\Modem\bin\Debug\PDUConverter.dll
